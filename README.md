@@ -11,12 +11,12 @@
 [![Forks](https://img.shields.io/github/forks/WCGKING/BRANDEDKING?style=flat-square&color=orange)](https://github.com/WCGKING/BRANDEDKING/fork)
 
 
-![logo](https://te.legra.ph/file/8ec25796bc604fbfacdf1.jpg)
+![logo](https://telegra.ph/file/84870d6d89b893e59c5f0.jpg)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=980&lines=This+Project+Is+Inspired+On+The+Hard+Work+Branded+Network%E2%9D%A4%EF%B8%8F">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪  𝗞𝗛𝗨𝗦𝗜𝗖 𓆩🇽𓆪  𝗠𝗨𝗦𝗜𝗖](https://t.me/KHUSHI_MUSIC76_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗡𝗔𝗥𝗨 𓆩🇽𓆪  𝗝𝗔𝗔𝗧 𓆩🇽𓆪  𝗠𝗨𝗦𝗜𝗖](https://t.me/narumusicwala_bot)**
 
 
 <h2 align="center">
@@ -35,7 +35,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 </p>
 <h3 align="center">
 
-![logo](https://te.legra.ph/file/e545cecbd06581d1a98f3.jpg)
+![logo](https://telegra.ph/file/bb12fccd5d89ea5ed98d7.jpg)
 
 ━━━━━━━━━━━━
 
@@ -66,7 +66,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
-[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/BRANDED_WORLD)
+[![Telegram](https://img.shields.io/badge/-Support-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/brokenshayri1)
 [![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)](https://t.me/BRANDRD_BOT)
 [![Telegram](https://img.shields.io/badge/-UpDate-grey?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=8E2DE2)]([https://t.me/BRANDED_PAID_CC)
 ━━━━━━━━━━━━━━━━━━━━
